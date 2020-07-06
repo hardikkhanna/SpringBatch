@@ -13,7 +13,7 @@
 
 <h2> Spring Batch Architecture </h2>
 
-
+![](src/main/resources/batch-min.jpg)
 
 <h2>How Spring Batch Works?</h2>
 
